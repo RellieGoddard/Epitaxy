@@ -26,7 +26,6 @@ USER INPUTS #3 (Lines 66–73)
     •	‘**h_BPlan**’ – planes within the daughter phase of interest, replace {h,k,l} with miller or miller-bravais indices of interest. 
     
 USER INPUTS #4 (Lines 175–185)
-
     •	‘**PhaseA_Type**’ – state if the epitaxial relationship of interest is a ‘plane’ or a ‘direction’ in the parent grains.
     •	‘**PhaseB_Type**’ – state if the epitaxial relationship of interest is a ‘plane’ or a ‘direction’ in the daughter grains.  
     •	‘**PhaseA_Int**’ – plane/direction of interest in parent phase 
