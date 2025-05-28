@@ -28,13 +28,9 @@ USER INPUTS #3 (Lines 66–73)
 USER INPUTS #4 (Lines 175–185)
 
     •	‘**PhaseA_Type**’ – state if the epitaxial relationship of interest is a ‘plane’ or a ‘direction’ in the parent grains.
-    
     •	‘**PhaseB_Type**’ – state if the epitaxial relationship of interest is a ‘plane’ or a ‘direction’ in the daughter grains.  
-    
     •	‘**PhaseA_Int**’ – plane/direction of interest in parent phase 
-    
     •	‘**PhaseB_Int**’ – plane/direction of interest in daughter phase 
-    
     •	‘**mis**’ – maximum misorientation between relationships to be considered in statistical analysis. Default is 10°.  
     
     OUTPUT FIGURES
